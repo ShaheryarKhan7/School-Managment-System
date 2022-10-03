@@ -1,4 +1,4 @@
-# School-Managment-System
+# School-Managment-System-Using-Python
 
 The Student Management System uses object orientated programming technique. It contains 3 classes, which are composed of 5 functions.
 
